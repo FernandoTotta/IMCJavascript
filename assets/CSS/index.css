@@ -23,6 +23,16 @@
     color: white;
     font-size: 30px;
 }
+.peso-acima{
+    background-color: rgb(116,12,255);
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 30px;
+}
 .peso-obesidade1{
     background-color: rgb(229, 253, 12);
     display: block;
